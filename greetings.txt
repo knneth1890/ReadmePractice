@@ -4,3 +4,6 @@ Konichiwa
 Halo
 Yes
 Yow
+Ola
+Yellow
+Hoy
